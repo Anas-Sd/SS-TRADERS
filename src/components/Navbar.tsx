@@ -69,6 +69,7 @@ export default function Navbar({ toggleSidebar, isSidebarOpen }: NavbarProps) {
                 <div className="flex items-center gap-4">
                     {user ? (
                         <div className="flex items-center gap-4">
+                        <Link to={'/'}>
                             <button
                                 onClick={handleLogout}
                                 className="flex items-center gap-2 bg-secondary text-secondary-foreground hover:bg-secondary/80 px-4 py-2 rounded-full text-sm font-medium transition-all"
@@ -76,6 +77,7 @@ export default function Navbar({ toggleSidebar, isSidebarOpen }: NavbarProps) {
                                 <LogOut size={16} />
                                 <span className="hidden sm:block">Log Out</span>
                             </button>
+                            </Link>
                         </div>
                     ) : (
                         <button
