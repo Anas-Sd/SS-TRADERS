@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Search, Package, ArrowRight } from 'lucide-react'
+import { Search, ArrowRight } from 'lucide-react'
 
 export default function Home() {
     return (
