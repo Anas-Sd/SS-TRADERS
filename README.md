@@ -4,10 +4,10 @@
 
 *Categorize. Organize. Scale. It's that simple.*
 
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-SSTraders-FF6B6B?style=for-the-badge)](https://sstraders.vercel.app)
+[![Live](https://img.shields.io/badge/🔗_Live_Demo-SSTraders-FF6B6B?style=for-the-badge)](https://sstraders1.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Anas-Sd/SSTraders?style=for-the-badge&color=gold)](https://github.com/Anas-Sd/SSTraders)
-[![GitHub Forks](https://img.shields.io/github/forks/Anas-Sd/SSTraders?style=for-the-badge&color=8B5CF6)](https://github.com/Anas-Sd/SSTraders)
+[![GitHub Stars](https://img.shields.io/github/stars/Anas-Sd/SSTraders?style=for-the-badge&color=gold)](https://github.com/Anas-Sd/SS-TRADERS)
+[![GitHub Forks](https://img.shields.io/github/forks/Anas-Sd/SSTraders?style=for-the-badge&color=8B5CF6)](https://github.com/Anas-Sd/SS-TRADERS)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
